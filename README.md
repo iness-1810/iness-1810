@@ -1,7 +1,7 @@
 # 💫 About Me:
 <div align="center">
 
-Cibersecurity ⭐<br> Passionate about arts 🎨<br>
+Cibersecurity Engineering⭐<br> Passionate about arts 🎨<br>
 
 </div>
 
