@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying cibersecurity.<br>Interested in maths.
+Currently studying cibersecurity.<br>Interest in maths.
 
 
 # 💻 Tech Stack:
