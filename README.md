@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cibersecurity ⭐<br> <br>
+Cibersecurity ⭐<br> Passionate about the arts 🎨<br>
 
 
 # 💻 Tech Stack:
