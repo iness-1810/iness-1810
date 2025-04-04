@@ -12,7 +12,8 @@ Cibersecurity Engineering⭐<br> Passionate about arts 🎨<br>
 <div align="center">
   
 ![](https://nirzak-streak-stats.vercel.app/?user=iness-1810&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iness-1810&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=darkxvortex&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1)
+
 
 </div>
 
